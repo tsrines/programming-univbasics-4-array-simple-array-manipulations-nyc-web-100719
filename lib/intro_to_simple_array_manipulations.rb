@@ -1,3 +1,4 @@
-def updated_array
-  colors_in_the_rainbow.push("violet")
+def using_push(Array, String)
+  array.push(String)
+
 end
