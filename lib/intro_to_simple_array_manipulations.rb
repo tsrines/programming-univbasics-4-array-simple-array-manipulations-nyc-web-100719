@@ -9,22 +9,22 @@ def using_pop
   array.pop
 end
 
-def pop_with_args
+def pop_with_args(array)
   array.pop(2)
 end
 
-def using_shift
+def using_shift(array)
   array.shift
 end
 
-def shift_with_args
+def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat
+def using_concat(array)
   array.concat
 end
 
-def using_uniq
+def using_uniq(array)
   array.uniq
 end
