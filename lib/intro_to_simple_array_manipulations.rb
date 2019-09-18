@@ -25,7 +25,7 @@ def using_concat(array1, array2)
   array1.concat(array2)
 end
 
-def using_insert(array, element)
+def using_insert(array, 4)  
   array.insert(element)
 end
 
@@ -44,4 +44,5 @@ end
 def using_delete_at(array, num)
   array.delete_at(num)
 end
+
   
